@@ -1,0 +1,2 @@
+**OpenPath** is an open-source geospatial data initiative designed to safeguard rural community access to healthcare, markets, and emergency services during climate disruptions in Sri Lanka.
+By combining multi-source road network data, population density grids, and algorithmic decision-making under uncertainty, OpenPath helps emergency authorities identify critical infrastructure bottlenecks and prioritize which unverified hazard reports to inspect first.
